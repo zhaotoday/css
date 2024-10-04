@@ -9,5 +9,8 @@
 - [TailwindCSS 文档](https://tailwindcss.com/docs/installation)
 - [UnoCSS 文档](https://unocss.dev/)
 
+#### 视频
+- [20分钟掌握CSS Flex布局](https://www.bilibili.com/video/BV1oK4y1j7pa/)
+
 #### 图标
 - [icones](https://icones.js.org/)
