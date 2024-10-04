@@ -11,6 +11,7 @@
 
 #### 视频
 - [20分钟掌握CSS Flex布局](https://www.bilibili.com/video/BV1oK4y1j7pa/)
+- [Tailwind CSS Flex弹性布局](https://www.bilibili.com/video/BV1sw411z7Ag/)
 
 #### 图标
 - [icones](https://icones.js.org/)
