@@ -13,6 +13,7 @@
 - [20分钟掌握CSS Flex布局](https://www.bilibili.com/video/BV1oK4y1j7pa/)
 - [Tailwind CSS Flex弹性布局](https://www.bilibili.com/video/BV1sw411z7Ag/)
 - [布局用的grid和flex样式](https://www.bilibili.com/video/BV1tt4y1K7Xc/)
+- [css小白极速入门flex布局](https://www.bilibili.com/video/BV1t7411E7tn/)
 - [css grid布局](https://www.bilibili.com/video/BV1Bk4y197xm/)
 
 #### 图标
