@@ -6,6 +6,7 @@
 - [阮一峰 - Flex 布局教程：语法篇](https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 - [CSS Flex 布局和 Grid 布局怎么选？](https://juejin.cn/post/7197279149337395260)
 - [flex-box-demo](https://github.com/JailBreakC/flex-box-demo)
+- [公司内部 UnoCSS 培训文档，含日常使用小技巧，赶紧收藏起来！](https://juejin.cn/post/7456435677790748681)
 
 #### 文档
 - [TailwindCSS 文档](https://tailwindcss.com/docs/installation)
