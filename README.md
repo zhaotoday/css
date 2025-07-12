@@ -14,6 +14,7 @@
 #### 文档
 - [TailwindCSS 文档](https://tailwindcss.com/docs/installation)
 - [UnoCSS 文档](https://unocss.dev/)
+- [UnoCSS 中文文档](https://unocss-cn.pages.dev/)
 
 #### 工具
 - [to-unocss](https://to-unocss.netlify.app/)
