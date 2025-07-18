@@ -11,6 +11,7 @@
 - [flex-box-demo](https://github.com/JailBreakC/flex-box-demo)
 - [公司内部 UnoCSS 培训文档，含日常使用小技巧，赶紧收藏起来！](https://juejin.cn/post/7456435677790748681)
 - [【大前端】搞懂＞＞＞、/deep/、::v-deep、::v-deep()和:deep()的区别与用法](https://juejin.cn/post/7413669480624357386)
+- [前端资源优化之【字体子集化】](https://juejin.cn/post/7527880790618308662)
 
 #### 文档
 - [TailwindCSS 文档](https://tailwindcss.com/docs/installation)
@@ -20,6 +21,7 @@
 #### 工具
 - [to-unocss](https://to-unocss.netlify.app/)
 - [transformToUnoCSS](https://github.com/Simon-He95/transformToUnoCSS)
+- [fontmin](https://ecomfe.github.io/fontmin/)
 
 #### 视频
 - [20分钟掌握CSS Flex布局](https://www.bilibili.com/video/BV1oK4y1j7pa/)
