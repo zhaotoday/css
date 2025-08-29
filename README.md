@@ -26,6 +26,7 @@
 - [to-unocss](https://to-unocss.netlify.app/)
 - [transformToUnoCSS](https://github.com/Simon-He95/transformToUnoCSS)
 - [fontmin](https://ecomfe.github.io/fontmin/)
+- [@unocss/transformer-compile-class](https://www.npmjs.com/package/@unocss/transformer-compile-class)
 
 #### 视频
 - [20分钟掌握CSS Flex布局](https://www.bilibili.com/video/BV1oK4y1j7pa/)
