@@ -32,6 +32,7 @@
 - [@unocss/transformer-variant-group](https://www.npmjs.com/package/@unocss/transformer-variant-group)
 - [@unocss/transformer-directives](https://www.npmjs.com/package/@unocss/transformer-directives)
 - [@unocss/preset-web-fonts](https://www.npmjs.com/package/@unocss/preset-web-fonts)
+- [@unocss/preset-typography](https://www.npmjs.com/package/@unocss/preset-typography)
 
 #### 视频
 - [20分钟掌握CSS Flex布局](https://www.bilibili.com/video/BV1oK4y1j7pa/)
