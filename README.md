@@ -34,6 +34,7 @@
 - [@unocss/preset-web-fonts](https://www.npmjs.com/package/@unocss/preset-web-fonts)
 - [@unocss/preset-typography](https://www.npmjs.com/package/@unocss/preset-typography)
 - [unocss-preset-extra](https://github.com/MoomFE/unocss-preset-extra)
+- [unocss-preset-useful](https://github.com/unocss-community/unocss-preset-useful)
 
 #### 视频
 - [20分钟掌握CSS Flex布局](https://www.bilibili.com/video/BV1oK4y1j7pa/)
