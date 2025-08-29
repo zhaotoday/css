@@ -18,6 +18,10 @@
 - [UnoCSS 文档](https://unocss.dev/)
 - [UnoCSS 中文文档](https://unocss-cn.pages.dev/)
 
+#### 资源
+- [awesome-unocss](https://github.com/unocss-community/awesome-unocss)
+- [awesome-unocss](https://github.com/kirklin/awesome-unocss)
+
 #### 工具
 - [to-unocss](https://to-unocss.netlify.app/)
 - [transformToUnoCSS](https://github.com/Simon-He95/transformToUnoCSS)
