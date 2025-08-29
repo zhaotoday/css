@@ -28,6 +28,7 @@
 - [fontmin](https://ecomfe.github.io/fontmin/)
 - [@unocss/transformer-compile-class](https://www.npmjs.com/package/@unocss/transformer-compile-class)
 - [unocss-preset-chinese](https://github.com/kirklin/unocss-preset-chinese)
+- [unocss-preset-autoprefixer](https://github.com/unocss-community/unocss-preset-autoprefixer)
 
 #### 视频
 - [20分钟掌握CSS Flex布局](https://www.bilibili.com/video/BV1oK4y1j7pa/)
